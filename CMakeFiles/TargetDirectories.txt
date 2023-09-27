@@ -1,0 +1,17 @@
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/mcpp.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/test.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/edit_cache.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/rebuild_cache.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/list_install_components.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/install.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/install/local.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/CMakeFiles/install/strip.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/local_tests.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/test_suite.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/test.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/edit_cache.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/rebuild_cache.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/list_install_components.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/install.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/install/local.dir
+/mnt/c/lc3/cosc2804-sep-23-assignment-1-Nhatdang3870303/mcpp/test/CMakeFiles/install/strip.dir
